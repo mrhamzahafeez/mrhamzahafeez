@@ -8,6 +8,8 @@
 I am a Bachelor of Information Technology student with foundational knowledge of C++, C#, SQL, HTML, CSS, Java, and PHP. My current focus is on enhancing my skills in Machine Learning and exploring AI-driven solutions.
 </p>
 
+---
+
 <h3 align="left">💡 My Services:</h3>
 <ul>
     <li><b>Data Preprocessing:</b> Cleaning, transforming, and preparing raw data for analysis or model training.</li>
@@ -18,6 +20,7 @@ I am a Bachelor of Information Technology student with foundational knowledge of
     <li><b>AI & ML Consultation:</b> Offering guidance on leveraging AI and machine learning to solve real-world problems.</li>
     <li><b>AI Workshops & Training:</b> Hands-on sessions for individuals or teams to gain practical ML and AI skills.</li>
 </ul>
+
 ---
 
 <h3 align="left">🔗 Connect with Me:</h3>
