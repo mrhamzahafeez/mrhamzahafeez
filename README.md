@@ -8,6 +8,16 @@
 I am a Bachelor of Information Technology student with foundational knowledge of C++, C#, SQL, HTML, CSS, Java, and PHP. My current focus is on enhancing my skills in Machine Learning and exploring AI-driven solutions.
 </p>
 
+<h3 align="left">💡 My Services:</h3>
+<ul>
+    <li><b>Data Preprocessing:</b> Cleaning, transforming, and preparing raw data for analysis or model training.</li>
+    <li><b>Data Cleaning:</b> Identifying and fixing data quality issues such as missing, inconsistent, or duplicate entries.</li>
+    <li><b>Data Visualization:</b> Creating insightful visualizations using tools like Seaborn and Matplotlib to uncover patterns and trends.</li>
+    <li><b>Model Training:</b> Building and optimizing machine learning models tailored to your business needs.</li>
+    <li><b>Deep Learning:</b> Designing and implementing neural networks for tasks like image recognition and natural language processing (NLP).</li>
+    <li><b>AI & ML Consultation:</b> Offering guidance on leveraging AI and machine learning to solve real-world problems.</li>
+    <li><b>AI Workshops & Training:</b> Hands-on sessions for individuals or teams to gain practical ML and AI skills.</li>
+</ul>
 ---
 
 <h3 align="left">🔗 Connect with Me:</h3>
