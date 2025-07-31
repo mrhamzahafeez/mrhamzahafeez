@@ -1,115 +1,70 @@
-<h1 align="center">Hi 👋, I'm Hamza Hafeez</h1>
-<h3 align="center">A Machine Learning Enthusiast from Pakistan</h3>
+<h1 align="center">👋 Hi, I'm Hamza Hafeez</h1>
+<p align="center">
+  🚀 IT Student | 🤖 AI/ML Developer | 💡 SaaS Enthusiast | 📍 Pakistan
+</p>
 
----
-
-<h3 align="left">About Me:</h3>
-<p align="left">
-I am a Bachelor of Information Technology student with foundational knowledge of C++, C#, SQL, HTML, CSS, Java, and PHP. My current focus is on enhancing my skills in Machine Learning and exploring AI-driven solutions.
+<p align="center">
+  <a href="https://github.com/mrhamzahafeez"><img src="https://img.shields.io/github/followers/mrhamzahafeez?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/hamza-hafeez-ml-expert/"><img src="https://img.shields.io/badge/LinkedIn-Hamza%20Hafeez-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:mrhamzasatti8430@gmail.com"><img src="https://img.shields.io/badge/Email-mrhamzasatti8430@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
 
-<h3 align="left">💡 My Services:</h3>
-<ul>
-    <li><b>Data Preprocessing:</b> Cleaning, transforming, and preparing raw data for analysis or model training.</li>
-    <li><b>Data Cleaning:</b> Identifying and fixing data quality issues such as missing, inconsistent, or duplicate entries.</li>
-    <li><b>Data Visualization:</b> Creating insightful visualizations using tools like Seaborn and Matplotlib to uncover patterns and trends.</li>
-    <li><b>Model Training:</b> Building and optimizing machine learning models tailored to your business needs.</li>
-    <li><b>Deep Learning:</b> Designing and implementing neural networks for tasks like image recognition and natural language processing (NLP).</li>
-    <li><b>AI & ML Consultation:</b> Offering guidance on leveraging AI and machine learning to solve real-world problems.</li>
-    <li><b>AI Workshops & Training:</b> Hands-on sessions for individuals or teams to gain practical ML and AI skills.</li>
-</ul>
+### 🧠 About Me
+
+I'm **Hamza Hafeez**, a passionate IT student with over **2 years of hands-on experience** in **Artificial Intelligence** and **Machine Learning**.  
+I love building real-world solutions using AI models and automation tools. I’ve worked on academic and internship projects using:
+
+- Machine Learning & Deep Learning  
+- NLP & Computer Vision  
+- AI API Integration & Automation  
+- Frontend Tech (HTML, CSS, JS) for AI-powered apps
+
+I’m always excited to explore **Generative AI**, **SaaS platforms**, and work with innovative teams solving real-world challenges.
 
 ---
 
-<h3 align="left">🔗 Connect with Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hamza-hafeez-413727338" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:mrhamzasatti8430@gmail.com" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
-</a>
-</p>
+### 🛠️ Tech Stack
+
+| Category           | Tools & Technologies |
+|--------------------|----------------------|
+| 💻 Languages       | Python, C++, C#, SQL, JavaScript |
+| 🧠 AI/ML           | Scikit-learn, TensorFlow, LangChain, Pandas, NumPy |
+| 📊 Data Analytics  | Excel, Matplotlib, Seaborn |
+| 🌐 Frontend        | HTML, CSS, JavaScript |
+| 🧰 Tools & IDEs     | Jupyter Notebook, Google Colab, Azure ML, VS Code |
+| 🔌 Other           | Git, GitHub, APIs, Streamlit |
 
 ---
 
-<h3 align="left">🖥️ Programming Languages:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> C++
-</a>
-<br />
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> C#
-</a>
-<br />
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> HTML
-</a>
-<br />
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> CSS
-</a>
-<br />
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript
-</a>
-<br />
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> PHP
-</a>
-<br />
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python (Frameworks: Pandas, TensorFlow, PyTorch, Scikit-learn)
-</a>
-</p>
+### 📂 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 📝 **Sentiment Analyzer** | Built using NLP techniques to detect sentiment in tweets using Scikit-learn. |
+| 🧠 **Image Classifier** | Trained CNN model using TensorFlow to classify images from a custom dataset. |
+| 🤖 **Chatbot with LangChain** | Created an intelligent assistant using LangChain & LLM APIs like ChatGPT. |
+| 📊 **Data Dashboard** | Developed an interactive dashboard using Streamlit and Matplotlib. |
+
+> 🔗 *More projects coming soon...*
 
 ---
 
-<h3 align="left">⚙️ Frameworks & Libraries:</h3>
-<p align="left">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> Pandas
-</a>
-<br />
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> PyTorch
-</a>
-<br />
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> Scikit-learn
-</a>
-<br />
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> Seaborn
-</a>
-<br />
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> TensorFlow
-</a>
-</p>
+### 🎯 Goals
+
+- Contribute to open-source AI tools  
+- Build a full-stack AI-powered SaaS product  
+- Explore opportunities in **Generative AI** & **Automation Engineering**
 
 ---
 
-<h3 align="left">🛠️ Software Tools:</h3>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> MySQL
-</a>
-<br />
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/> Visual Studio Code
-</a>
-<br />
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> Jupyter Notebook
-</a>
-<br />
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> Git
-</a>
-</p>
+### 📫 Get in Touch
+
+- 📧 Email: [mrhamzasatti8430@gmail.com](mailto:mrhamzasatti8430@gmail.com)  
+- 💼 LinkedIn: [Hamza Hafeez](https://www.linkedin.com/in/hamza-hafeez-ml-expert)  
+- 🌐 GitHub: [github.com/mrhamzahafeez](https://github.com/mrhamzahafeez)
 
 ---
+
+<p align="center">Thank you for visiting my profile! 🌟 Let's build something amazing together.</p>
