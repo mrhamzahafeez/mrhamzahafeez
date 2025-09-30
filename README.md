@@ -47,7 +47,7 @@ class HamzaHafeez:
 <details>
 <summary><b>🔥 Recent Internships (Click to expand)</b></summary>
 
-### 🌐 Web Content Uploading Intern | GAOTek Inc.
+### 🌐 AI Intern | Cortexis Sol Hub
 **July 2025 - Sep 2025 | Remote**
 - Managed and optimized web content with SEO compliance
 - Collaborated with content teams on upload schedules
